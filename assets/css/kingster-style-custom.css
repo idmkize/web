@@ -285,7 +285,7 @@ body.single-event .kingster-page-title-wrap{ background-image: url(https://gsis.
 .kingster-top-bar-background{ background-color: #4c2ee8; } 
 .kingster-body .kingster-top-bar{ border-bottom-color: #ffffff; } 
 .kingster-top-bar{ color: #000000; } 
-.kingster-body .kingster-top-bar a{ color: #000000; } 
+.kingster-body .kingster-top-bar a{ color: #979797; } 
 .kingster-body .kingster-top-bar a:hover{ color: #ffffff; } 
 .kingster-body .kingster-top-bar .kingster-top-bar-right-button{ background-color: #3db166; } 
 .kingster-top-bar .kingster-top-bar-right-social a{ color: #ffffff; } 
@@ -654,7 +654,7 @@ i.kingster-lp-top-bar-user-button.fa.fa-user-o {
 }
 
 .kingster-top-bar .kingster-top-bar-right-social a {
-    color: #000000 !important;
+    color: #979797 !important;
 }
 
 
