@@ -94,7 +94,7 @@ figcaption.wp-caption-text {  margin-top: 20px; }
 body .page-links > a,
 body .nav-links > a, body .nav-links > span.dots{ background-color: #f0f0f0; color: #919191; }
 body .page-links > span, body .page-links > a:hover,
-body .nav-links > span.current, body .nav-links > a:hover{ background-color: #3db166; color: #fff; }
+body .nav-links > span.current, body .nav-links > a:hover{ background-color: #000000; color: #fff; }
 
 .page-links{ clear: left; margin-top: 40px; }
 .page-links > span,
@@ -197,7 +197,7 @@ input[type="button"]:focus, input[type="submit"]:focus, input[type="reset"]:focu
 .kingster-top-bar-right-social{ display: inline; }
 .kingster-top-bar-right-social a{ margin-left: 25px; }
 
-.kingster-body .kingster-top-bar .kingster-top-bar-right-button{ background: #3db166; color: #fff; }
+.kingster-body .kingster-top-bar .kingster-top-bar-right-button{ background: #000000; color: #fff; }
 .kingster-body .kingster-top-bar .kingster-top-bar-right-button{ display: inline-block; font-weight: bold; padding-left: 23px; padding-right: 23px; margin-left: 23px; }
 
 /* top bar menu */
